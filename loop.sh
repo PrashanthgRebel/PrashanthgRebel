@@ -1,5 +1,5 @@
 #!/bin/bash
-
+```
 select name in prashanthg hemant nikil prabhanshu
 do
 	case $name in
@@ -16,3 +16,5 @@ do
 			echo "invalid option"
 	esac
 done
+```
+echo "helo prashanth"
